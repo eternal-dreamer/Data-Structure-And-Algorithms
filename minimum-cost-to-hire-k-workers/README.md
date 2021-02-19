@@ -1,3 +1,4 @@
+[Discussion Post (created on 20/1/2021 at 2:7)](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/submissions/)  
 <h2>857. Minimum Cost to Hire K Workers</h2><h3>Hard</h3><hr><div><p>There are <code>N</code> workers.&nbsp; The <code>i</code>-th worker has a <code>quality[i]</code> and a minimum wage expectation <code>wage[i]</code>.</p>
 
 <p>Now we want to hire exactly <code>K</code>&nbsp;workers to form a <em>paid group</em>.&nbsp; When hiring a group of K workers, we must pay them according to the following rules:</p>
