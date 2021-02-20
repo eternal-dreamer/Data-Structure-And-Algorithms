@@ -1,3 +1,4 @@
+[Discussion Post (created on 20/1/2021 at 11:22)](https://leetcode.com/problems/score-of-parentheses/submissions/)  
 <h2>856. Score of Parentheses</h2><h3>Medium</h3><hr><div><p>Given a balanced parentheses string <code>S</code>, compute the score of the string based on the following rule:</p>
 
 <ul>
